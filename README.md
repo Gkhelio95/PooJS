@@ -1,4 +1,4 @@
-# 3. `pooJs.js` – OOP Practice in JavaScript
+# `pooJs.js` – OOP Practice in JavaScript
 
 A modern JavaScript (ES6) project demonstrating the use of classes, inheritance, and method overriding.
 
